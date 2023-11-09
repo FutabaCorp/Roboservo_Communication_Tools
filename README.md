@@ -1,4 +1,4 @@
-# Roboservo_Communication_Tools2
+# Roboservo_Communication_Tools
 
 本アプリケーションによって、Roboservoのパラメータ設定や、状態確認、動作チェックをWindowsPCで行うことが可能です。
 アプリケーションの使用方法は以下のマニュアルをご確認ください。
